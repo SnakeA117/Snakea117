@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnakeA117](https://github.com/SnakeA117)
 
-- 💬 Ask me about **React, JS, Frontend Framworks**
+- 💬 Ask me about **React, JS, Frontend Frameworks**
 
 - 📫 How to reach me **eddiedevcode@gmail.com**
 
