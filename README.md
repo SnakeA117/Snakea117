@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakea117&label=Profile%20views&color=0e75b6&style=flat" alt="snakea117" /> </p>
 
-- 🔭 I’m currently working on **TP**
+- 🔭 I’m currently working as a professional Frontend Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/SnakeA117](https://github.com/SnakeA117)
 
